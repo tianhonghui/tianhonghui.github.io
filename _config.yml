@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            孤狼晖
-tagline:          '只是一个臭开发……'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          '简简单单的技术博客'
+description:      '美团网Windows Phone开发工程师。热爱技术，更热爱生活。相信技术的力量可以改变人们的生活'
 url:              http://lanyon.getpoole.com
 paginate:         5
 
