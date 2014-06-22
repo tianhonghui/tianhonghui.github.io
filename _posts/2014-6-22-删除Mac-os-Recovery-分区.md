@@ -1,3 +1,8 @@
+---
+layout: post
+title: 删除 Mac os Recovery 分区
+---
+
 Deleting and merging a partition with diskutil from the command line
 This is the most precise method I know of to remove the partition since it targets the recovery disk directly and merges it with the full Lion partition – if you’re not comfortable with the command line this is not for you.
 
